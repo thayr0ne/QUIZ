@@ -1,0 +1,13 @@
+﻿TEMA;DIFICULDADE;Pergunta;Alternativa A;Alternativa B;Alternativa C;Alternativa D;Alternativa Correta;Audio;ImagemVideo
+Saúde Suplementar;Fácil;Qual órgão federal regula os planos de saúde no Brasil?;ANS;ANVISA;SUS;CFM;A;;
+Saúde Suplementar;Fácil;O que significa a sigla TUSS no contexto da saúde suplementar?;Tabela Unificada do SUS;Terminologia Unificada da Saúde Suplementar;Taxa Unificada de Serviços de Saúde;Termo Único de Serviços de Saúde;B;;
+Saúde Suplementar;Médio;A RN 539/2022 trata principalmente de que tema?;Cobertura para terapias especiais para TEA;Reajuste de mensalidades por faixa etária;Índice de reajuste hospitalar;Criação do QUALISS;A;;
+Saúde Suplementar;Médio;No modelo fee-for-service, a remuneração é baseada em:;Metas de desfecho clínico;Pacotes por episódio de cuidado;Quantidade de serviços/procedimentos realizados;Capitação por vida;C;assets/audio/ffs_explicacao.mp3;
+Saúde Suplementar;Difícil;Na CBHPM, o valor de um procedimento é calculado a partir de:;Número de diárias vezes taxa de sala;CH técnico e porte anestésico com multiplicadores;Tabela de reembolso do SUS;Índice IPCA do período;B;;assets/img/cbhpm_formula.png
+Saúde Suplementar;Difícil;O QUALISS do Ministério da Saúde/ANS está relacionado principalmente a:;Qualidade de prestadores e transparência de indicadores;Reajuste anual de planos individuais;Coberturas obrigatórias do Rol;Infraestrutura hospitalar mínima;A;;
+Ficção Científica;Fácil;Qual é a nave espacial do capitão Jean‑Luc Picard?;Serenity;USS Enterprise-D;Millennium Falcon;Nostromo;B;;
+Ficção Científica;Fácil;Em 'Star Wars', quem é o mentor Jedi de Luke Skywalker no Episódio IV?;Mace Windu;Qui-Gon Jinn;Obi‑Wan Kenobi;Yoda;C;assets/audio/lightsaber_sfx.mp3;
+Ficção Científica;Médio;Qual autor escreveu 'Neuromancer', obra seminal do cyberpunk?;William Gibson;Isaac Asimov;Philip K. Dick;Arthur C. Clarke;A;;
+Ficção Científica;Médio;No filme 'Blade Runner', qual é o teste usado para identificar replicantes?;Teste Kobayashi Maru;Voight‑Kampff;Turing Completo;Rorschach;B;;assets/img/blade_runner_eye.jpg
+Ficção Científica;Difícil;Qual é a Primeira Diretriz (Prime Directive) na Federação dos Planetas Unidos?;Proibição de viagem no tempo;Não interferência no desenvolvimento de culturas menos avançadas;Neutralidade em conflitos interestelares;Preservar a vida inteligente a qualquer custo;B;;
+Ficção Científica;Difícil;Em 'Duna', a especiaria melange é produzida em que planeta?;Caladan;Arrakis;Giedi Prime;Ix;B;;assets/img/arrakis_desert.png
